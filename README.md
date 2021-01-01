@@ -7,7 +7,7 @@
 </a>
 <br/>
 <br/>
-Hi, I'm [Ankit Pahwa](https://github.com/ankitpahwa111) , a passionate Full Stack Web Developer 🚀 from India.
+Hi, I'm [Ankit Pahwa](https://www.linkedin.com/in/ankit-pahwa-075b68170/) , a passionate Full Stack Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
