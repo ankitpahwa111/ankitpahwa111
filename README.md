@@ -1,10 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/ankitpahwa111">
-  <img align="left" alt="Ankit Pahwa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ankit-pahwa-075b68170/">
-  <img align="left" alt="Ankit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br/>
 <br/>
 
@@ -36,7 +30,7 @@ Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/) , a passionate Full S
 <!--START_SECTION:waka-->
 ```text
 C++        2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.50 % 
-ReactJS        1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+React        1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   27.88 % 
 Markdown   54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
 Git
 ```
