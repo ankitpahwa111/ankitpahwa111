@@ -7,7 +7,8 @@
 </a>
 <br/>
 <br/>
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/) , a passionate Full Stack Web Developer 🚀 from India.
+
+Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/) , a passionate Full Stack Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
