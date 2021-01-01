@@ -7,7 +7,7 @@
 </a>
 <br/>
 <br/>
-Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/), a passionate Full Stack Web Developer 🚀 from India.
+Hi, I'm [Ankit Pahwa!] (https://ankit-pahwa.herokuapp.com/), a passionate Full Stack Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -16,7 +16,7 @@ Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/), a passionate Full St
 - 👨🏽‍💻 I’m currently working as SDE Intern at Cisco :wink:;
 - 🌱 I’m currently learning Cloud Computing; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Ankit's Linkedin](https://www.linkedin.com/in/ankit-pahwa-075b68170/);
+- 📫 How to reach me: [Ankit's Linkedin] (https://www.linkedin.com/in/ankit-pahwa-075b68170/);
 - 📝[Resume](https://drive.google.com/file/d/1siEVp3JteKN08C8RkRDiz33aWiighE1V/view?usp=sharing)
 
 **Languages and Tools:**  
