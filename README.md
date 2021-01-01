@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ankit-pahwa-075b68170/">
   <img align="left" alt="Ankit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
+<br/>
 
 Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/), a passionate Full Stack Web Developer 🚀 from India.
 
