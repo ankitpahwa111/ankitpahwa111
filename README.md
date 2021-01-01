@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/ankit-pahwa-075b68170/">
   <img align="left" alt="Ankit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
 
 Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/), a passionate Full Stack Web Developer 🚀 from India.
@@ -39,7 +38,7 @@ C++        2 hrs 3 mins    ████████████▒░░░░�
 ReactJS        1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   27.88 % 
 Markdown   54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
 Git
-
+```
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  6,630 Karma Points           
