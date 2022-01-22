@@ -7,11 +7,10 @@ Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/) , a passionate Full S
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as SDE at Amazon ( Ex SDE - Cisco ) :wink:;
+- 👨🏽‍💻 I’m currently working as SDE at Amazon ( Ex SDE - Cisco )
 - 🌱 I’m currently learning Cloud Computing; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Ankit's Linkedin](https://www.linkedin.com/in/ankit-pahwa-075b68170/);
-- 📝[Resume](https://drive.google.com/file/d/1siEVp3JteKN08C8RkRDiz33aWiighE1V/view?usp=sharing)
 
 **Languages and Tools:**  
 
