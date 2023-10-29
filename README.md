@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
-Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/) , a passionate Full Stack Web Developer 🚀 from India.
+Hi, I'm [Ankit Pahwa!](https://www.linkedin.com/in/ankitpahwa111/) , a passionate Full Stack Web Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -10,7 +10,7 @@ Hi, I'm [Ankit Pahwa!](https://ankit-pahwa.herokuapp.com/) , a passionate Full S
 - 👨🏽‍💻 I’m currently working as SDE at Amazon ( Ex SDE - Cisco )
 - 🌱 I’m currently learning Cloud Computing; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Ankit's Linkedin](https://www.linkedin.com/in/ankit-pahwa-075b68170/);
+- 📫 How to reach me: [Ankit's Linkedin](https://www.linkedin.com/in/ankitpahwa111/);
 
 **Languages and Tools:**  
 
