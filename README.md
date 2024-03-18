@@ -7,8 +7,8 @@ Hi, I'm [Ankit Pahwa!](https://www.linkedin.com/in/ankitpahwa111/) , a passionat
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as SDE at Amazon ( Ex SDE - Cisco )
-- 🌱 I’m currently learning Cloud Computing; 
+- 👨🏽‍💻 I’m currently working as SDE-2 at Uber ( Ex SDE - Amazon, Cisco )
+- 🌱 I’m currently learning designing large scale apps; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Ankit's Linkedin](https://www.linkedin.com/in/ankitpahwa111/);
 
